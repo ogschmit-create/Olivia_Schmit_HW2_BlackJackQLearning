@@ -1,0 +1,10 @@
+experiment,configuration,alpha,gamma,epsilon_decay,mean_reward,win_rate,draw_rate,loss_rate
+Learning Rate,alpha_0.1,0.1,0.99,0.99995,-0.06835,0.41995,0.09175,0.4883
+Learning Rate,alpha_0.5,0.5,0.99,0.99995,-0.07775,0.4158,0.09065,0.49355
+Learning Rate,alpha_0.9,0.9,0.99,0.99995,-0.085,0.4133,0.0884,0.4983
+Discount Factor,gamma_0.50,0.1,0.5,0.99995,-0.06775,0.41695,0.09835,0.4847
+Discount Factor,gamma_0.90,0.1,0.9,0.99995,-0.0732,0.41675,0.0933,0.48995
+Discount Factor,gamma_0.99,0.1,0.99,0.99995,-0.06835,0.41995,0.09175,0.4883
+Epsilon Decay,decay_0.9999,0.1,0.99,0.9999,-0.0829,0.4116,0.0939,0.4945
+Epsilon Decay,decay_0.99995,0.1,0.99,0.99995,-0.06835,0.41995,0.09175,0.4883
+Epsilon Decay,decay_0.99999,0.1,0.99,0.99999,-0.066,0.4211,0.0918,0.4871
